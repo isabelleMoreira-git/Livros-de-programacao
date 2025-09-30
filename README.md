@@ -1,8 +1,5 @@
 # 📚  Livros de Programacão!
 
-Bem-vindo ao repositório **Biblioteca de Programação**!  
-Aqui faço upload de livros que podem ajudar no aprendizado de diferentes áreas da programação.  
-
 > ⚠️ **Aviso**: Este repositório é apenas para fins de estudo e compartilhamento acadêmico.  
 > Caso goste de algum dos livros, considere apoiar os autores adquirindo as versões oficiais.  
 
